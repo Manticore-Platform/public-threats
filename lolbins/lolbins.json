@@ -1,0 +1,9 @@
+{
+  "description": "Lolbin Binaries For Downloading Malicious Executables",
+  "id": "pt-001",
+  "name": "Lolbin Emulation",
+  "phases": [
+      "cc-001.json",
+      "cc-002.json"
+    ]
+}

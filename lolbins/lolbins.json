@@ -3,7 +3,7 @@
   "id": "pt-001",
   "name": "Lolbin Emulation",
   "phases": [
-      "cc-001.json",
-      "cc-002.json"
+      "/commandandcontrol/cc-001.json",
+      "/commandandcontrol/cc-002.json"
     ]
 }

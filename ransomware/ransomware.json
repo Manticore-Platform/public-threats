@@ -1,0 +1,9 @@
+{
+  "description": "Multiple Language Ransomware Emulation(Go,Powershell)",
+  "id": "pt-002",
+  "name": "Ransomware Emulation",
+  "phases": [
+      "/impact/im-001.json",
+      "/impact/im-002.json"
+    ]
+}

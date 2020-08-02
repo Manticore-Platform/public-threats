@@ -1,0 +1,22 @@
+{
+  "description": "APT-29 Adversary Emulation",
+  "id": "pt-003",
+  "name": "APT-29 Adversary Emulation",
+  "phases": [
+      "/collection/cn-001.json",
+      "/collection/cn-002.json",
+      "/collection/cn-003.json",
+      "/collection/cn-004.json",
+      "/collection/cn-005.json",
+      "/credential-access/ca-001.json",
+      "/credential-access/ca-002.json",
+      "/credential-access/ca-003.json",
+      "/defense-evasion/de-001.json",
+      "/defense-evasion/de-002.json",
+      "/defense-evasion/de-003.json",
+      "/discovery/dv-001.json",
+      "/discovery/dv-002.json",
+      "/discovery/dv-003.json",
+      "/discovery/dv-004.json"
+    ]
+}
